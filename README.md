@@ -2,6 +2,7 @@
 an efficient deep feature encoding for first-person activity recognition
 
 ccf: compute cross correlation feature from input feature matrix
+
 acf: compute auto correlation feature from input feature matrix
 
 for more information see:
