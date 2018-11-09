@@ -1,5 +1,5 @@
 # ActivityRecognition
-an efficient deep feature encoding for first-person activity recognition
+an efficient segment-level feature encoding for first-person activity recognition
 
 ccf: compute cross correlation feature from input feature matrix
 
