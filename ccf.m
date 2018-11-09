@@ -13,11 +13,11 @@ function [encoded_feat] = ccf( feat, L, delta)
 %       encoded_feat: an encoded vector with length of: ((lambda * (lambda-1))/2) * L
 %   -------------------------------
 %   Example:
-%       load(sample.mat);
+%       load('sample.mat');
 %       enc_feat = ccf(feat, 1, 64);
 %       enc_feat16 = ccf(feat, 16, 64);
 %   -------------------------------
-%   Modified in: 11/01/2015
+%   11/01/2015
 %   -------------------------------
 %
 tic;
